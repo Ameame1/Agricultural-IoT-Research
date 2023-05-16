@@ -112,7 +112,7 @@ For any inquiries or feedback regarding this project, please feel free to contac
 
 [22672987@student.uwa.edu.au](mailto:22672987@student.uwa.edu.au)(Hanzhe Yang)
 
-[22200099@student.uwa.edu.au](mailto:22200099@student.uwa.edu.au)(Xinyu Wang).
+[22200099@student.uwa.edu.au](mailto:22200099@student.uwa.edu.au)(Xinlyu Wang).
 
 
 
