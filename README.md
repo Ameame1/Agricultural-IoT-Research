@@ -1,1 +1,1 @@
-<a href="img.png"><img src="img.png" alt="image" style="max-width: 50px; max-height: 30px;"></a>
+[![Small Image](img.png)](https://www.uwa.edu.au/schools/Agriculture-and-Environment)
