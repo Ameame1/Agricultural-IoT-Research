@@ -1,2 +1,1 @@
-![image](img.png){ width=30 height=20 }
-
+<a href="img.png"><img src="img.png" alt="image" style="max-width: 500px; max-height: 300px;"></a>
