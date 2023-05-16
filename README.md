@@ -2,7 +2,6 @@
 # Agricultural Research
 [<img src="screenshoot/Agricultural Economics.png" alt="image" width="">](https://www.uwacaed.org/)
 
-![img.png](screenshoot/Agricultural Economics.png)
 This is the UWA Agricultural Integration Research. This repository combines three key areas of agricultural research: Precio, GNSS, and DLiSA. Our aim is to develop an integrated model that encompasses precision farming, high-resolution navigation, and intelligent irrigation for optimized agricultural operations. This README file serves as a guide for developers and users, providing an overview of the project and its features.
 
 ## Precio
@@ -10,7 +9,8 @@ This is the UWA Agricultural Integration Research. This repository combines thre
 Precio is a comprehensive solution designed to assist modern farmers in optimizing their agricultural operations. It is an open-source software tool that enables monitoring, automation, and visualization of farming data. With real-time data analysis and insights, Precio empowers farmers to make informed decisions, improve efficiency, and increase productivity. It is user-friendly and includes third-party integrations to optimize resource usage, reduce waste, and enhance farming practices.
 
 ### Integration and Features
-![img_6.png](screenshoot/img_6.png)
+[<img src="screenshoot/Precio.png" alt="image" width="">](https://github.com/suryan-s/Precio)
+
 Precio offers the following features:
 
 - Real-time monitoring of critical data required for the governance of farming operations.
@@ -44,11 +44,11 @@ Precio offers the following features:
 <hr/>
 
 ## GNSS
-![img_2.png](screenshoot/img_2.png)
+![img_2.png](screenshoot/GNSS.png)
 GNSS (Global Navigation Satellite System) plays a crucial role in precision agricultural robots by providing high-resolution navigation solutions. In this project, we introduce a robust neural-inertial sequence learning approach for tracking agricultural robots with intermittent GNSS updates. Our ultra-lightweight neural-Kalman filter achieves superior tracking accuracy, even with limited GNSS updates. Additionally, we provide a user-friendly video-processing toolbox that generates high-resolution position data for fine-tuning pre-trained neural-inertial models. To facilitate research in this field, we also introduce a publicly available neural-inertial navigation dataset for precision agricultural robots.
 
 ## DLiSA
-![img_1.png](screenshoot/img_1.png)
+![img_1.png](screenshoot/DLiSA.png)
 DLiSA (Deep Learning-based IoT-enabled Intelligent Irrigation System for Precision Agriculture) addresses the need for water-efficient precision irrigation in unpredictable climates. This solution utilizes a deep learning neural network, specifically a long short-term memory network (LSTM), to predict volumetric soil moisture content, irrigation periods, and spatial water distribution for arable land. By leveraging IoT technologies, DLiSA optimizes irrigation practices, leading to bigger, better, and more profitable yields with fewer resources.
 
 ## Requirements
@@ -98,11 +98,11 @@ Please refer to the individual folders for more specific information and instruc
 
 ## Experiment Result
 
-![img_3.png](screenshoot/img_3.png)
+![img_3.png](screenshoot/result1.png)
 
-![img_4.png](screenshoot/img_4.png)
+![img_4.png](screenshoot/result2.png)
 
-![img_5.png](screenshoot/img_5.png)
+![img_5.png](screenshoot/result3.png)
 
 ## Contact
 
