@@ -53,6 +53,7 @@ def ionet_pos_generator(net_inp_mat, size_of_each,
     return Pvx, Pvy
 
 
+
 '''
 generate trajectory from ground truth displacement and heading for specific file
 
