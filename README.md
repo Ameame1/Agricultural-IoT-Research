@@ -1,2 +1,2 @@
-![image](img.png){ width=300 height=200 }
+![image](img.png){ width=30 height=20 }
 
