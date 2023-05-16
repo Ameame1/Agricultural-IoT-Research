@@ -1,1 +1,1 @@
-<a href="img.png"><img src="img.png" alt="image" style="max-width: 500px; max-height: 300px;"></a>
+<a href="img.png"><img src="img.png" alt="image" style="max-width: 50px; max-height: 30px;"></a>
